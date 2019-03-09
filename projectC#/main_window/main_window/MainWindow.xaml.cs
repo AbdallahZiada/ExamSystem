@@ -23,6 +23,12 @@ namespace main_window
         public MainWindow()
         {
             InitializeComponent();
+            //hello this abdallah
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+
         }
     }
 }

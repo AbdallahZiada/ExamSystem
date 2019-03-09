@@ -12,3 +12,12 @@ E:\projectC#\main_window\main_window\obj\Debug\main_window.Properties.Resources.
 E:\projectC#\main_window\main_window\obj\Debug\main_window.csproj.GenerateResource.Cache
 E:\projectC#\main_window\main_window\obj\Debug\main_window.exe
 E:\projectC#\main_window\main_window\obj\Debug\main_window.pdb
+C:\Users\Abdallah Ziada\Documents\GitHub\ExamSystem\projectC#\main_window\main_window\bin\Debug\main_window.exe.config
+C:\Users\Abdallah Ziada\Documents\GitHub\ExamSystem\projectC#\main_window\main_window\obj\Debug\main_window.exe
+C:\Users\Abdallah Ziada\Documents\GitHub\ExamSystem\projectC#\main_window\main_window\obj\Debug\main_window.pdb
+C:\Users\Abdallah Ziada\Documents\GitHub\ExamSystem\projectC#\main_window\main_window\obj\Debug\main_window.csprojResolveAssemblyReference.cache
+C:\Users\Abdallah Ziada\Documents\GitHub\ExamSystem\projectC#\main_window\main_window\obj\Debug\MainWindow.g.cs
+C:\Users\Abdallah Ziada\Documents\GitHub\ExamSystem\projectC#\main_window\main_window\obj\Debug\App.g.cs
+C:\Users\Abdallah Ziada\Documents\GitHub\ExamSystem\projectC#\main_window\main_window\obj\Debug\main_window_MarkupCompile.cache
+C:\Users\Abdallah Ziada\Documents\GitHub\ExamSystem\projectC#\main_window\main_window\obj\Debug\main_window_MarkupCompile.lref
+C:\Users\Abdallah Ziada\Documents\GitHub\ExamSystem\projectC#\main_window\main_window\obj\Debug\Instructor.g.cs
